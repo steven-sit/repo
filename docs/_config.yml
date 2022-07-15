@@ -13,12 +13,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-google:
-  gtag: "G-M645ESKSD0"
 
-gems:
-  - jekyll-redirect-from
-
-url: "https://steven-sit.io"
-
-baseurl: ""
