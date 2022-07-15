@@ -18,3 +18,7 @@ google:
 
 gems:
   - jekyll-redirect-from
+
+url: "https://steven-sit.io"
+
+baseurl: ""
