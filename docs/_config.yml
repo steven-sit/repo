@@ -12,3 +12,9 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
+
+google:
+  gtag: "G-M645ESKSD0"
+
+gems:
+  - jekyll-redirect-from
