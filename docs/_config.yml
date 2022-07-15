@@ -1,5 +1,5 @@
 title: 学习blog
-#lang: en
+lang: en
 description: steven study by github
  
 remote_theme: rundocs/jekyll-rtd-theme
